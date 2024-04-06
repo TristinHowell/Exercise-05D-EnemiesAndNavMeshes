@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Artifact
+  - Artifact 1
+  - Artifact 2
   layers:
   - Default
   - TransparentFX
@@ -15,8 +17,8 @@ TagManager:
   - UI
   - Enemy
   - Artifact
-  - 
-  - 
+  - Artifact 1
+  - Artifact 2
   - 
   - 
   - 
